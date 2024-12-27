@@ -15,9 +15,9 @@ export const patientsData = [
       "Complete blood work"
     ],
     dueDates: [
-      "1/1/2020",
-      "1/1/2020",
-      "1/1/2020"
+      "1/9/2020",
+      "10/9/2020",
+      "1/9/2020"
     ],
     details: {
       age: "5 years",
@@ -43,8 +43,8 @@ export const patientsData = [
     ],
     dueDates: [
       "2/1/2020",
-      "2/1/2020",
-      "2/1/2020"
+      "2/4/2020",
+      "2/5/2020"
     ],
     details: {
       age: "3 years",
